@@ -8,17 +8,23 @@
 
 Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que impactem positivamente a vida das pessoas. Atualmente curso **Análise e Desenvolvimento de Sistemas na Uninter** e estou construindo uma base sólida em desenvolvimento web, lógica de programação, front-end e back-end e entre outros.
 
-🎯 Meus objetivos:
+**🎯 Meus objetivos:**
 
-- **Criar meu primeiro portifólio**
+**Criar meu primeiro portifólio**
+- Aprender Html e css avançado
+  - Nivel intermediario - Udemy  
 - Aprender Python avançado
+  - Atualmente nivel intermediario - Udemy 
 - Aprender Javascript avançado
-  - Aprimorar conhecimentos no back-end e front-end
-  - 
+  - Atualmente nivel iniciante - Udemy 
+- Aprimorar conhecimentos no front-end e back-end
+- Aprender tecnologias, Node.js e React.js 
+    
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+###🛠️ Tecnologias e Ferramentas**
+<p></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />  
@@ -28,3 +34,54 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+**Vamos brincar um pouco 😄**
+
+🔴🟠🟢
+  
+    # deploy_simulator.py 🚀
+    import time
+    import random
+    
+    def fake_deploy():
+    frases = [
+        "📦 Compactando bugs...",
+        "🚧 Escondendo os prints de debug...",
+        "🧹 Limpando gambis...",
+        "🔐 Encriptando senha com '123456'...",
+        "🐢 Atualizando o sistema... só mais 2 horinhas!",
+        "🤞 Torcendo pra funcionar em produção...",
+        "🔥 Deploy em andamento. Nada pode dar errado, né?"
+    ]
+    print("🚀 Iniciando deploy para produção...\n")
+    time.sleep(1)
+
+    for i in range(5):
+        print(random.choice(frases))
+        time.sleep(1.5)
+
+    print("\n✅ Deploy finalizado com sucesso! (pelo menos por enquanto 😅)")
+    
+    if __name__ == "__main__":
+        fake_deploy()
+
+Exemplo da saída no terminal:
+
+    # define a função
+    # printa na tela
+      
+    🚀 Iniciando deploy para produção...
+    
+    # itera sobre a lista da função 5x de forma randomica ja printando na tela
+    
+    📦 Compactando bugs...
+    🧹 Limpando gambis...
+    🤞 Torcendo pra funcionar em produção...
+    🐢 Atualizando o sistema... só mais 2 horinhas!
+    🚧 Escondendo os prints de debug...
+
+    # printa na tela
+    
+    ✅ Deploy finalizado com sucesso! (pelo menos por enquanto 😅)
+
+    
