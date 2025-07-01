@@ -32,6 +32,11 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+## 🚀 Minhas Estatísticas
+More actions
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cezarasilva&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrlzzz&layout=compact&theme=default&langs_count=8" alt="Linguagens Mais Usadas" /> </p>
+<p align="center"> <i>“Grandes softwares começam com uma simples linha de código.” </i> </p>
+
 ---
 **Vamos brincar um pouco 😄**
 
