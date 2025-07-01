@@ -19,11 +19,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   - Atualmente nivel iniciante - Udemy 
 - Aprimorar conhecimentos no front-end e back-end
 - Aprender tecnologias, Node.js e React.js 
-    
 
----
-
-###🛠️ Tecnologias e Ferramentas**
+**🛠️ Tecnologias e Ferramentas**
 <p></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
@@ -35,6 +32,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
+---
 **Vamos brincar um pouco 😄**
 
 🔴🟠🟢
