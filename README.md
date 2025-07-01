@@ -1,4 +1,4 @@
-<h1 align="center">Oi! eu sou o Cezar 👍</h1>
+![image](https://github.com/user-attachments/assets/27ead5df-7edc-4408-84d9-3b3010dbaeff)<h1 align="center">Oi! eu sou o Cezar 👍</h1>
 
 <p align="center">
   🎓 Estudante de ADS na Uninter | 🚀 Futuro Especialista em Software
@@ -33,11 +33,23 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 </p>
 
 ## 🚀 Minhas Estatísticas
-More actions
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cezarasilva&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrlzzz&layout=compact&theme=default&langs_count=8" alt="Linguagens Mais Usadas" /> </p>
-<p align="center"> <i>“Grandes softwares começam com uma simples linha de código.” </i> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cezarasilva&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarasilva&layout=donut&theme=radical&langs_count=6" alt="Linguagens Mais Usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cezarasilva&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/cezarasilva?label=Seguidores&style=social" alt="Seguidores GitHub" />
+  <img src="https://img.shields.io/github/issues/cezarasilva/your-repo?label=Issues%20Abertas" alt="Issues Abertas" />
+</p>
+
 **Vamos brincar um pouco 😄**
 
 🔴🟠🟢
