@@ -7,8 +7,24 @@
 ## 🧠 Sobre mim
 
 Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que impactem positivamente a vida das pessoas. Atualmente curso **Análise e Desenvolvimento de Sistemas na Uninter** e estou construindo uma base sólida em desenvolvimento web, lógica de programação, front-end e back-end e entre outros.
-<!--
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-</div>
--->
+
+🎯 Meus objetivos:
+
+- **Criar meu primeiro portifólio**
+- Aprender Python avançado
+- Aprender Javascript avançado
+  - Aprimorar conhecimentos no back-end e front-end
+  - 
+
+---
+
+🛠️ Tecnologias e Ferramentas
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" />  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee" alt="CSS" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
