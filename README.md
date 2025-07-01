@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27ead5df-7edc-4408-84d9-3b3010dbaeff)<h1 align="center">Oi! eu sou o Cezar 👍</h1>
+<h1 align="center">Oi! eu sou o Cezar 👍</h1>
 
 <p align="center">
   🎓 Estudante de ADS na Uninter | 🚀 Futuro Especialista em Software
